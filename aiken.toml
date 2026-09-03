@@ -11,8 +11,8 @@ project = "cip113-programmable-tokens"
 platform = "github"
 
 [[dependencies]]
-name = "aiken-lang/stdlib"
-version = "v3.1.0"
+name = "easy1staking-com/stdlib"
+version = "feat/native-value-builtins"
 source = "github"
 
 [[dependencies]]

@@ -2,8 +2,8 @@
 # You typically do not need to edit this file
 
 [[requirements]]
-name = "aiken-lang/stdlib"
-version = "v3.1.0"
+name = "easy1staking-com/stdlib"
+version = "feat/native-value-builtins"
 source = "github"
 
 [[requirements]]
@@ -12,8 +12,8 @@ version = "main"
 source = "github"
 
 [[packages]]
-name = "aiken-lang/stdlib"
-version = "v3.1.0"
+name = "easy1staking-com/stdlib"
+version = "feat/native-value-builtins"
 requirements = []
 source = "github"
 
@@ -24,4 +24,5 @@ requirements = []
 source = "github"
 
 [etags]
-"aiken-lang/fuzz@main" = [{ secs_since_epoch = 1787152729, nanos_since_epoch = 664893000 }, "9843473958e51725a9274b487d2d4aac0395ec1a2e30f090724fa737226bc127"]
+"aiken-lang/fuzz@main" = [{ secs_since_epoch = 1788466860, nanos_since_epoch = 163585904 }, "9843473958e51725a9274b487d2d4aac0395ec1a2e30f090724fa737226bc127"]
+"easy1staking-com/stdlib@feat/native-value-builtins" = [{ secs_since_epoch = 1788466859, nanos_since_epoch = 802571131 }, "832c85cf5c8787cff783f3bcc6d2ceefb038e08fc4d3a9ba547517f854fd2bfe"]
