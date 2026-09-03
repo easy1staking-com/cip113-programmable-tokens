@@ -20,7 +20,8 @@ use aiken/fuzz
 use cardano/assets
 use cardano/assets/native
 
-const policy: ByteArray = #"00000000000000000000000000000000000000000000000000000f00"
+const policy: ByteArray =
+  #"00000000000000000000000000000000000000000000000000000f00"
 
 /// `size` distinct one-byte token names, quantity 10 each.
 fn names(size: Int) -> List<ByteArray> {
