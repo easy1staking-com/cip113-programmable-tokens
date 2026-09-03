@@ -24,5 +24,5 @@ requirements = []
 source = "github"
 
 [etags]
-"aiken-lang/fuzz@main" = [{ secs_since_epoch = 1788466860, nanos_since_epoch = 163585904 }, "9843473958e51725a9274b487d2d4aac0395ec1a2e30f090724fa737226bc127"]
-"easy1staking-com/stdlib@feat/native-value-builtins" = [{ secs_since_epoch = 1788466859, nanos_since_epoch = 802571131 }, "832c85cf5c8787cff783f3bcc6d2ceefb038e08fc4d3a9ba547517f854fd2bfe"]
+"aiken-lang/fuzz@main" = [{ secs_since_epoch = 1788472736, nanos_since_epoch = 280165183 }, "9843473958e51725a9274b487d2d4aac0395ec1a2e30f090724fa737226bc127"]
+"easy1staking-com/stdlib@feat/native-value-builtins" = [{ secs_since_epoch = 1788472735, nanos_since_epoch = 914557276 }, "d40c252b4df1dd108ea791a366765312dbedba77c7e2a6d026a026d2cbe1d1c0"]
